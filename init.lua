@@ -470,7 +470,7 @@ require('lazy').setup({
   },
 })
 
-vim.cmd.colorscheme 'rose-pine'
+vim.cmd.colorscheme 'kanagawa'
 
 vim.api.nvim_create_autocmd('ColorScheme', {
   pattern = '*',
